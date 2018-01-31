@@ -1,1 +1,1 @@
-create sample1
+create sample1->2
